@@ -1,4 +1,10 @@
 {
+  "replies_assistant": "Respostes com a assistent",
+  "replies_prompter": "Respostes com a apuntador",
+  "your_stats": "Les teves estadístiques",
+  "good_rankings": "Bones classificacions",
+  "accepted_prompts": "Indicacions acceptades",
+  "accepted": "↪ Acceptat",
   "daily": "Diari",
   "label": "Etiquetes",
   "last_updated_at": "Última actualització: {{val, datetime}}",
@@ -14,5 +20,6 @@
   "top_5_contributors_today": "Top 5 contribuïdors avui",
   "user": "Usuari",
   "view_all": "Veure tots",
+  "week": "setmana",
   "weekly": "Setmanal"
 }
